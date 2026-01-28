@@ -7,7 +7,7 @@ huseyinfiliz-guest:
   forum:
     login_button: "Guest Login"
     modal_title: "Welcome Guest"
-    welcome_message: "Welcome, guest user! Guests are limited to three posts."
+    welcome_message: "Welcome, guest user! Guests are limited to {max} posts."
     modal_understood: "Got it!"
     max_posts_reached: "You have reached the maximum of {max} posts for guest users. Please create an account to continue."
     login_error: "Login failed. Please try again."
